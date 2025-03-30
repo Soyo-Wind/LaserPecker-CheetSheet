@@ -2,13 +2,12 @@
 
 レーザーペッカーのチートシートを作成する
 
-## 設定
-### Settings
+## 設定 Settings
 ### Power : 100%
 ### 彫刻回数(Number of engravings) : 1
 ### Depth 5 ~ 30 %
 
-## 注意
+## 注意 Warning
  >Depthが強すぎると発火します。\
  >If the depth is too great it will ignite\
  >20%以上だとアプリが警告を出してきます\
