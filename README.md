@@ -12,7 +12,7 @@
  >Depthが強すぎると発火します。\
  >If the depth is too great it will ignite\
  >20%以上だとアプリが警告を出してきます\
- >The app will warn you when it reaches 20% or higher.\
+ >The app will warn you when it reaches 20% or higher.
 
 # 木材
 
