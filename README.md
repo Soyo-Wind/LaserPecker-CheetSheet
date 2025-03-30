@@ -9,10 +9,10 @@
 ### Depth 5 ~ 30 %
 
 ## 注意
- >Depthが強すぎると発火します。
- >If the depth is too great it will ignite
- >20%以上だとアプリが警告を出してきます
- >The app will warn you when it reaches 20% or higher.
+ >Depthが強すぎると発火します。¥
+ >If the depth is too great it will ignite¥
+ >20%以上だとアプリが警告を出してきます¥
+ >The app will warn you when it reaches 20% or higher.¥
 
 # 木材
 
@@ -32,7 +32,7 @@
 ![Image](杉.JPG "杉?")
 
 ## タモ?
-###Ash
+### Ash
 
 #### Depth　5~30%(左から5%刻み)
 #### Depth　5-30% (5% increments from the left)
